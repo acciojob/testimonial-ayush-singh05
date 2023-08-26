@@ -1,21 +1,14 @@
-/*  your css code here. If applicable */
-*{
+.container{
 	background-color:#f5f5f5;
-}
-.container-1{
-	background-color:#ffff;
-	border: 1px solid grey;
-	height:80px;
 	padding:10px;
-	text-style:normal;
-	margin:10px;
 }
-p,span{
-	background:#ffff;
+.first{
+	background-color:white;
+	padding:5px;
+	border:1px solid gray;
+	margin:20px;
 }
-span{
-	display:block;
+.author{
 	text-align:right;
 	font-style:italic;
-	
 }
